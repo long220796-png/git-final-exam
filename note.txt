@@ -1,0 +1,3 @@
+- Git giúp tôi quản lý phiên bản code hiệu quả.
+- Ban đầu học hơi khó, nhưng quen rồi thì rất hữu ích.
+- Tôi đặc biệt thích tính năng branching.
