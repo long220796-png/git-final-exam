@@ -1,0 +1,7 @@
+Tính năng mới: Hệ thống xác thực hai yếu tố (2FA)
+
+1. Mục tiêu: Tăng cường bảo mật cho tài khoản người dùng.
+2. Chi tiết: Sử dụng mã OTP gửi qua ứng dụng xác thực (như Google Authenticator).
+3. Ưu điểm: Ngăn chặn truy cập trái phép ngay cả khi mật khẩu bị lộ.
+4. Kế hoạch triển khai: Phát triển API xác thực trong tuần tới.
+5. Các module liên quan: Module User Management và Module Security.
