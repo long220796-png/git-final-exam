@@ -15,3 +15,13 @@ Tuần này tôi sẽ tập trung vào việc củng cố kiến thức và th�
 8.  Mục tiêu phụ: Dành 1 giờ mỗi ngày để giải các bài toán logic trên LeetCode.
 9.  Đảm bảo ngủ đủ 7 tiếng mỗi đêm để duy trì sự tập trung.
 10. Tham gia buổi hội thảo trực tuyến về xu hướng công nghệ mới vào cuối tuần.
+<<<<<<< Updated upstream
+11. tui ăn cơm
+12. tui đi ngủ
+13. tui đi chơi
+14. tui thích chơi ff
+15. tui thích chơi liên quân
+=======
+11. hello
+12. xin chào
+>>>>>>> Stashed changes
